@@ -1,1 +1,1 @@
-# Hi, I'm Gautier! ![wave](./wave.gif)
+# Hi, I'm Gautier! ![wave](wave.gif)
