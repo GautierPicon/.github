@@ -2,4 +2,4 @@
 
 Some of my projects may be on Codeberg: [codeberg.org/GautierPicon](https://codeberg.org/GautierPicon)
 
-![DuckDance](https://github.com/GautierPicon/.github/raw/main/profile/assets/walkingDuck.gif)
+<img src="https://github.com/GautierPicon/.github/raw/main/profile/assets/walkingDuck.gif" width="200" alt="walkingDuck">
