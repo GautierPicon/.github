@@ -1,3 +1,3 @@
-# Hi, I'm Gautier! ![wave](https://github.com/GautierPicon/.github/raw/main/profile/assets/wave.gif)
+# Hi, I'm Gautier! ![wave](./assets/wave.gif)
 
-<img src="https://github.com/GautierPicon/.github/raw/main/profile/assets/walkingDuck.gif" width="200" alt="walkingDuck">
+<img src="./assets/walkingDuck.gif" width="200" alt="walkingDuck">
